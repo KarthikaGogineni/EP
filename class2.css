@@ -1,0 +1,67 @@
+	body{
+		margin:0;
+		padding:0;
+		background-image: url(k.jpg);
+		-webkit-background-size:cover;
+		font-family:Poppins;
+	}
+
+#register{
+	color: black;
+	background-color: #016064;;
+
+}
+#namee{
+	color: #016064;
+}
+#reg{
+	color: #016064;
+}
+#email{
+	color: #016064;
+}
+#fav{
+	color: #016064;
+}
+.user{
+	color: #016064;
+}
+#cricket{
+	color: #016064;
+}
+#chess{
+	color: #016064;
+}
+#football{
+	color: #016064;
+}
+#gender{
+	color: #016064;
+}
+#male{
+	color: #016064;
+}
+#female{
+	color: #016064;
+}
+#subject{
+	color: #016064;
+}
+#subject{
+	border-color: #016064;
+}
+#address{
+	color: #016064;
+
+}
+#submit{
+	color: white;
+	background-color: #016064;
+	border-color: #016064;
+}
+#user{
+	border-color:#016064;
+}
+a:hover{
+	
+}
